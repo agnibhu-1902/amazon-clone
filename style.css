@@ -203,7 +203,7 @@ span {
 }
 
 .box {
-  height: min-content;
+  height: max-content;
   width: 20%;
   background-color: white;
   padding: 20px;
